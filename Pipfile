@@ -10,6 +10,7 @@ django = "*"
 pillow = "*"
 
 [dev-packages]
+awsebcli = "*"
 
 [requires]
 python_version = "3.7"
