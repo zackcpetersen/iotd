@@ -8,8 +8,9 @@ gunicorn = "*"
 djangorestframework = "*"
 django = "*"
 pillow = "*"
-
-[dev-packages]
+django-storages = "*"
+boto3 = "*"
+psycopg2-binary = "*"
 awsebcli = "*"
 
 [requires]
